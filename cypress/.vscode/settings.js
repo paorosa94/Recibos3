@@ -1,4 +1,4 @@
-{
+//{
 	// "cucumberautocomplete.strictGherkinCompletion": true,
 	// "cucumberautocomplete.strictGherkinValidation": false,
 	// "cucumberautocomplete.customParameters": [

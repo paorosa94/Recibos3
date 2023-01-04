@@ -1,0 +1,16 @@
+{
+
+"data": {
+    "username":"Master@bank.com",
+    "password":"B4nkSA2022"
+
+},
+"input":{
+
+    "inputname":"#email",
+    "inputpassword":"#password"
+    
+},
+
+"botton":"[type='submit']"
+}
